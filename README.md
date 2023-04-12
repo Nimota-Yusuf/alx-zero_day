@@ -1,1 +1,3 @@
-Hi there,I am learning more
+My first readme
+A new update on the README.md file from github.com
+
